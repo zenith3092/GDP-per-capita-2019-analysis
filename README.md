@@ -7,6 +7,6 @@ X<sub>1</sub> : Education Index
 X<sub>2</sub> : Life Expectancy  
 X<sub>3</sub> : Democracy Index  
 ## Analysis Report:
-[Report Link Click Me](https://drive.google.com/file/d/1RIJiZakERzPSqCCTg88ZCl2xWb8r-8Mi/view?usp=sharing)
+[Report Link Click Me](https://drive.google.com/file/d/1VZ-AdTTwSxxRicyUqnc5cp5nA9_IZOO3/view?usp=sharing)
 ## Contact Me
 * Xianglin Wu：[zenith3092@gmail.com](mailto:zenith3092@gmail.com)
