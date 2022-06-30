@@ -1,3 +1,5 @@
+/* Developer: Xianglin Wu (xianglin3092@gmail.com) */
+
 PROC import datafile=" `file path` \gdp_data.xlsx"
 out=data1  
 dbms=xlsx replace;
